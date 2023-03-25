@@ -4,6 +4,7 @@
     {"name":"ak_aprite","order":1,"path":"sprites/ak_aprite/ak_aprite.yy",},
     {"name":"obj_menu","order":3,"path":"objects/obj_menu/obj_menu.yy",},
     {"name":"ak_item","order":2,"path":"objects/ak_item/ak_item.yy",},
+    {"name":"new_sprite","order":2,"path":"sprites/new_sprite/new_sprite.yy",},
     {"name":"r_menu","order":1,"path":"rooms/r_menu/r_menu.yy",},
   ],
 }

@@ -48,6 +48,7 @@
     {"id":{"name":"rocket_sprite","path":"sprites/rocket_sprite/rocket_sprite.yy",},},
     {"id":{"name":"ak_item","path":"objects/ak_item/ak_item.yy",},},
     {"id":{"name":"door_dungeon","path":"objects/door_dungeon/door_dungeon.yy",},},
+    {"id":{"name":"new_sprite","path":"sprites/new_sprite/new_sprite.yy",},},
     {"id":{"name":"r_menu","path":"rooms/r_menu/r_menu.yy",},},
     {"id":{"name":"globals","path":"objects/globals/globals.yy",},},
     {"id":{"name":"player_sprite","path":"sprites/player_sprite/player_sprite.yy",},},
