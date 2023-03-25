@@ -12,7 +12,7 @@ rate_of_fire = 8;
 damage = 50;
 move_speed = 5;
 shot_speed = 25;
-dash_length = 30;
-dash_cooldown = 13;
+dash_length = 70;
+dash_cooldown = 100;
 
 shot_sprite = player_sprite;
