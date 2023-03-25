@@ -6,5 +6,6 @@ player_object.damage = 150;
 player_object.shot_sprite = rocket_sprite
 
 sniper_item.destroy = true;
+ak_item.destroy = true;
 instance_destroy();
 
