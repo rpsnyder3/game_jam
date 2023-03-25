@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"snjiper_item","order":3,"path":"objects/snjiper_item/snjiper_item.yy",},
+    {"name":"sniper_shot_sprite","order":2,"path":"sprites/sniper_shot_sprite/sniper_shot_sprite.yy",},
+    {"name":"rocket_sprite","order":1,"path":"sprites/rocket_sprite/rocket_sprite.yy",},
+    {"name":"globals","order":1,"path":"objects/globals/globals.yy",},
+    {"name":"rocket_item","order":2,"path":"objects/rocket_item/rocket_item.yy",},
+    {"name":"sniper_sprite","order":3,"path":"sprites/sniper_sprite/sniper_sprite.yy",},
+  ],
+}

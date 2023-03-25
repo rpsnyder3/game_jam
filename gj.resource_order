@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"ak_aprite","order":1,"path":"sprites/ak_aprite/ak_aprite.yy",},
+    {"name":"ak_item","order":2,"path":"objects/ak_item/ak_item.yy",},
+  ],
+}
