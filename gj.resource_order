@@ -6,5 +6,7 @@
     {"name":"ak_item","order":2,"path":"objects/ak_item/ak_item.yy",},
     {"name":"new_sprite","order":2,"path":"sprites/new_sprite/new_sprite.yy",},
     {"name":"r_menu","order":1,"path":"rooms/r_menu/r_menu.yy",},
+    {"name":"Sprite9","order":3,"path":"sprites/Sprite9/Sprite9.yy",},
+    {"name":"obj_enemy_bullet","order":4,"path":"objects/obj_enemy_bullet/obj_enemy_bullet.yy",},
   ],
 }

@@ -10,3 +10,4 @@ if player_exists
 	direction = point_direction(x, y, player_object.x, player_object.y);
 	speed = spd;
 }
+
